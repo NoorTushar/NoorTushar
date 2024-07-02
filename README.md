@@ -5,13 +5,13 @@
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Noor Tushar</h1>  
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
-<p align="center"><img src="https://streak-stats.demolab.com?user=NoorTushar&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=NoorTushar&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></p>
 <br>
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" />
 
-Hello, this is Noor Tushar. I am a passionate ReactJS web developer from Dhaka, Bangladesh with a strong foundation in ReactJS, HTML, CSS, JavaScript, TailwindCSS, ExpressJS, Next.js, and MongoDB. I excel in designing, coding, and developing responsive web applications, with a keen ability to debug complex issues and ensure seamless performance.
+Hello, this is Noor Tushar. I am a passionate ReactJS web developer from Dhaka, Bangladesh with a strong foundation in ReactJS, HTML, CSS, JavaScript, TailwindCSS, ExpressJS, and MongoDB. I excel in designing, coding, and developing responsive web applications, with a keen ability to debug complex issues and ensure seamless performance.
 
 Beyond my professional career, I have demonstrated leadership as the ex-captain of the Bangladesh National E-Sports Team and the President of the Canadian University of Bangladesh Business Club. These roles have strengthened my ability to lead, collaborate, and achieve goals in diverse environments.
 
