@@ -87,7 +87,7 @@ Beyond my professional career, I have demonstrated leadership as the ex-captain 
             />
          </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
             <img
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+               src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
                alt="mongodb"
                width="40"
                height="40"
